@@ -1,0 +1,54 @@
+.premiere{
+    display: flex;
+    
+}
+.img{
+    width:10%;
+    height: 10%; 
+    border-radius: 85px;
+    margin-right: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-containor{
+margin-top: 10px;
+margin-right: 30px;
+}
+.all{
+    width:50%;
+    height:100%;
+    
+}
+.text{
+    margin-top: 10px;
+    margin-left: 250px;  
+}
+.moi{
+    display: flex; 
+}
+.full{
+    margin-left: 120px;
+}
+.date{
+    margin-left: 50px;
+}
+.para{
+    margin-left: 100px;
+}
+.datte{
+    margin-left: 50px;
+}
+.parra{
+    margin-left: 100px;
+}
+.formation{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.all2{
+    margin-left: 90px;
+}
+.paraa{
+    margin-left: 200px;
+}
