@@ -1,0 +1,30 @@
+.all{
+    width:50%;
+    height:100%;
+    
+}
+.name{
+    margin-left: 20px;
+    
+}
+.premiere{
+    display: flex;
+}
+.col2{
+    margin-left: 90px;
+}
+.pic1{
+    margin-top: 50px;
+}
+.all2{
+    display:flex;
+}
+.all3{
+    display:flex;
+}
+.lig2{
+    margin-left: 10px;
+}
+.lig3{
+    margin-right: 110px;
+}
